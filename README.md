@@ -1,7 +1,7 @@
 # JO-KEN-PÔ!!!
 <h2>| Description |</h2>
 <p>
-basic. I make this game only for train. This is a good project to train your logic game with python language. This game is very simple. It works basically with numbers, "ifs" and "elses". <b>WARNING:</b> is very likely that it has very errors in the code, "quick fixs" and very problems.
+basic. I make this game only to train. This is a good project to train your logic game with python language. This game is very simple. It works basically with numbers, "ifs" and "elses". <b>WARNING:</b> is very likely that it has very errors in the code, "quick fixes" and very problems.
 </p>
 
 <h2>| Libraries and Modules |</h2>
@@ -10,9 +10,9 @@ basic. I make this game only for train. This is a good project to train your log
 
 <h2>| Examples |</h2>
 <h3>1.</h3>
-<img height="250px" src="ex01.png">
+<img height="450px" src="ex01.png">
 <h3>2.</h3>
-<img height="250px" src="ex01.png">
+<img height="450px" src="ex01.png">
 
 <h2>| Final explanation |</h2>
 <p>
