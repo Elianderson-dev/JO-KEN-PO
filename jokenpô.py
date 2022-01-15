@@ -30,7 +30,7 @@ ____________''')
     #match
     match = match + 1
     print(f'Round |{match}|')
-    sleep(10)
+    sleep(2)
     print('JO...')
     sleep(1)
     print('KEN...')
