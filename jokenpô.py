@@ -1,6 +1,7 @@
 #library and modules
 from random import randint
 from time import sleep
+import os
 #options to player
 rock = 0
 paper = 1
@@ -27,6 +28,7 @@ Pedra = 0
 Papel = 1
 Tesoura = 2
 ____________''')
+
     #match
     match = match + 1
     print(f'Round |{match}|')
@@ -37,6 +39,11 @@ ____________''')
     sleep(1)
     print('PÔ!!!\n')
     sleep(1)
+
+         
+    #clear terminal
+    os.system("clear")
+
      
     #-------------the main part of the game-----------------
     #random number to simulate an option of the machine/bot
