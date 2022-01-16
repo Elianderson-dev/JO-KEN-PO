@@ -12,7 +12,7 @@ basic. I make this game only to train. This is a good project to train your logi
 <h3>1.</h3>
 <img height="450px" src="ex01.png">
 <h3>2.</h3>
-<img height="450px" src="ex01.png">
+<img height="450px" src="ex02.png">
 
 <h2>| Final explanation |</h2>
 <p>
